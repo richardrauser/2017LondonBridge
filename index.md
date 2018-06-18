@@ -1,5 +1,5 @@
 ---
-title: 2017LondonBridge.com
+title: Home
 banner_image: ''
 layout: landing-page
 heading: 2017 London Bridge
@@ -15,7 +15,7 @@ show_news: false
 show_staff: false
 menu:
   navigation:
-    name: 2017LondonBridge.com
+    name: Home
     identifier: _index
     url: "/"
     weight: 1
