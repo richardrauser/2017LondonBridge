@@ -1,13 +1,12 @@
 ---
-title: Example Draft
+title: The birth of a healing space
 layout: post
 date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
 tags: []
 related_posts: []
+banner_image: ''
 ---
-## What are draft posts?
+## Thanks for dropping by.
 
-This is an example of a draft post. Draft posts aren't included when publishing your site.
-
-This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time.
+Today, this site has been set up as a place for those affected the 2017 London Bridge terror attack to share and support each other. It is hoped that healing may be fostered through listening and attempting to understand how this has impacted those immediately affected by the attack.
