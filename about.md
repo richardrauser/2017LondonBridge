@@ -2,13 +2,12 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: ''
-heading: About Belkirk
+heading: ''
 sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: ''
 publish_date: 2017-12-01 04:00:00 +0000
-show_staff: true
+show_staff: false
 menu:
   footer:
     name: About
