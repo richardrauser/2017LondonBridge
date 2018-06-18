@@ -4,8 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 collections:
-  _people:
-    default_front_matter_template: person
   _posts:
     default_front_matter_template: post
 upload_dir: uploads
