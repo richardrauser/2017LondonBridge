@@ -3,10 +3,7 @@ title: 2017LondonBridge.com
 banner_image: ''
 layout: landing-page
 heading: 2017 London Bridge
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services: []
 sub_heading: ''
 textline: An online memorial for all those affected by the 2017 London Bridge terror
@@ -14,7 +11,7 @@ textline: An online memorial for all those affected by the 2017 London Bridge te
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
